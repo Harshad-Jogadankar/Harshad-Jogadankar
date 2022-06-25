@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 You can reach out to me by mailing to harshadpjog@gmail.com
 
 <!---
 Harshad-Jogadankar/Harshad-Jogadankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
