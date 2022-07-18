@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Harshad-Jogadankar
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach out to me by mailing to harshadpjog@gmail.com
 
 <!---
